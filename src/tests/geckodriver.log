@@ -1,0 +1,34 @@
+1663599918339	geckodriver	INFO	Listening on 127.0.0.1:54374
+1663599921409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecm\\AppData\\Local\\Temp\\rust_mozprofile47dyPL"
+1663599921735	Marionette	INFO	Marionette enabled
+1663599921741	Marionette	INFO	Listening on port 54384
+WebDriver BiDi listening on ws://localhost:54375
+Read port: 54384
+1663599921824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ecm\\AppData\\Local\\Temp\\rust_mozprofile47dyPL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54375/devtools/browser/19b009c8-8037-4f65-b8f8-299c31cfaf9f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1663599925268	Marionette	INFO	Stopped listening on port 54384
+1663599934940	geckodriver	INFO	Listening on 127.0.0.1:54413
+1663599938005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecm\\AppData\\Local\\Temp\\rust_mozprofileNlgAxJ"
+1663599938301	Marionette	INFO	Marionette enabled
+1663599938306	Marionette	INFO	Listening on port 54423
+WebDriver BiDi listening on ws://localhost:54414
+Read port: 54423
+1663599938386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ecm\\AppData\\Local\\Temp\\rust_mozprofileNlgAxJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54414/devtools/browser/e656b9d7-2e8b-414e-bc76-f5c24a0b72cc
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1663599941172	Marionette	INFO	Stopped listening on port 54423
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 60: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1663599961430	geckodriver	INFO	Listening on 127.0.0.1:54459
+1663599964515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ecm\\AppData\\Local\\Temp\\rust_mozprofilebtMgtl"
+1663599964806	Marionette	INFO	Marionette enabled
+1663599964811	Marionette	INFO	Listening on port 54472
+WebDriver BiDi listening on ws://localhost:54460
+Read port: 54472
+1663599964890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ecm\\AppData\\Local\\Temp\\rust_mozprofilebtMgtl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54460/devtools/browser/e6456781-2804-427f-a455-b399b0e53b4b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+1663599967835	Marionette	INFO	Stopped listening on port 54472
